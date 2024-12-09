@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel 
 - 👀 I’m interested in ... DevOps
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently learning ... Rust, Ruby, Matlab
 - 💞️ I’m looking to collaborate on ... any projects 
 - 📫 How to reach me ...
 - 😄 Pronouns: ... he/him
